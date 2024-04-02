@@ -82,7 +82,8 @@ dt.predict([[5,6]])
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120543388/a010bdbd-df20-499f-88a3-47017a7b52d7)
 
-### r2
+### r2:
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/120543388/0efbc50e-8d81-4163-a8d0-6219b920cafa)
 
 ### Data prediction:
